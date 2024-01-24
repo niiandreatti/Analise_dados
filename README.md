@@ -18,8 +18,8 @@ Criei visualizações impactantes, incluindo um heatmap da matriz de confusão e
 💡 Lições Aprendidas:
 Aprendi a importância de uma análise exploratória sólida, a escolha adequada de métricas de avaliação e a importância de visualizar os resultados para uma compreensão mais profunda.
 
-![Relatório de classificação](CapturadeTela2024-01-24às11.36.20.png)
-![Matriz Confusão](CapturadeTela2024-01-24às12.31.50.png)
-![Gráfico de Evolução](Capturadetela2024-01-24às12.52.36.png)
+![Relatório de classificação](Relatóriodeclassificação.png)
+![Matriz Confusão](MatrizConfusão.png)
+![Gráfico de Evolução](GráficodeEvolução.png)
 
 
